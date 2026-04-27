@@ -16,6 +16,8 @@ This project originally started as a ASL Interpreter. However, while researching
 Assembly
 </h2>
 
+![image](/assets/fullarm_v2_4)
+
 ### Hardware
 #### [Bill Of Materials](/BOM)
 |Part Number|Part Name            |Quantity|Sourcing Link                                       |Cost  |Notes|
