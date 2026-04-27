@@ -16,7 +16,7 @@ This project originally started as a ASL Interpreter. However, while researching
 Assembly
 </h2>
 
-![image](/assets/fullarm_v2_4)
+![image](/assets/fullarm_v2_4.png)
 
 ### Hardware
 #### [Bill Of Materials](/BOM)
