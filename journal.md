@@ -860,7 +860,7 @@ I sliced it Bambu Slicer and it came out to around 8g of filament
 
 ![image](/assets/finger_v5_3.png)
 
-## April 26thm 2026 - Sunday
+## April 26th, 2026 - Sunday
 The finger turned out decent. It wasn't a smooth as I would've liked so I'll stick to the v4 for now. Anyways, it's like 2 in the morning so I will go to sleep and keep working tomorrow.
 
 Good morning guys! Continuing on with yesterday, I want to finish the zine today and submit! Here's the checklist from yesterday:
@@ -888,3 +888,13 @@ https://www.youtube.com/watch?v=Rfja3hf1nRA
 I've taken the video, now I want to double check everything so I know I'm not missing anything. 
 
 I think I got everything, so I'll submit now. 
+
+## April 28th, 2026 - Friday
+Today, I made a few changes to the zine. 
+
+Earlier today, I got an email saying that my QR code was going to expire. Apparently I was using a bad site to generate my QR code and it was one of those scam websites that charge you money for QR codes.
+
+Anyways, I used Adobe to generate a new QR code and it works. 
+
+I also added a few details to the zine specifying the cool things I added. 
+![image](/assets/zine_v2.png)
