@@ -889,7 +889,7 @@ I've taken the video, now I want to double check everything so I know I'm not mi
 
 I think I got everything, so I'll submit now. 
 
-## April 28th, 2026 - Friday
+## May 1st, 2026 - Friday
 Today, I made a few changes to the zine. 
 
 Earlier today, I got an email saying that my QR code was going to expire. Apparently I was using a bad site to generate my QR code and it was one of those scam websites that charge you money for QR codes.
