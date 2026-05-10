@@ -903,7 +903,7 @@ I also added a few details to the zine specifying the cool things I added.
 Hey! A few days ago, my project passed requirements check, but it had a few minor issues which I'll list below.
 
 - [x] Add the assembly file but as a STEP file as well
-- [ ] Add the demo QR code to the zine
+- [x] Add the demo QR code to the zine
 - [ ] Add better assembly instructions
 
 Well, the first one should be easy, as long as my assembly file didn't break somehow. 
@@ -919,3 +919,5 @@ Now, I have to add a QR code of the demo to the zine.
 When I tried adding the QR code to the zine, I think GPU drivers broke, so I spent some time trying to fix it. 
 
 ![image](/assets/zine_v3.png)
+
+Finally, let's add the assembly instructions. 
